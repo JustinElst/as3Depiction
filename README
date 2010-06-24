@@ -1,0 +1,19 @@
+Interactieve 3d omgeving op het internet door middel van afbeeldingen en transities.
+
+Before you use this application you need to understand Object-Oriëntated-Programming and you need
+advanced knowlegde of ActionScript 3.0 and flex 4.
+
+While you start understanding AS 3.0 and OO-programming, you have to understand the pureMVC framework.
+
+You can find all the information of this framework on http://www.puremvc.org.
+Things you need to know:
+
+- What is a Proxy class
+- What is a Mediator class
+- What is a ValueObject class
+- What is a ViewComponent
+- What is a Command
+- What is the façade doing
+- How do the classes connect to each other
+
+We have added an example to show you how it works.
