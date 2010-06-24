@@ -1,0 +1,12 @@
+*.as3proj
+*.swf
+.poject
+.settings
+obj/*
+*.actionScriptProperties
+*.flexProperties
+*.fxpProperties
+*.project
+*.html
+*.js
+bin
